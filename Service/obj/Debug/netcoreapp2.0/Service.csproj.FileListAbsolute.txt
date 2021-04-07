@@ -1,0 +1,14 @@
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Service\bin\Debug\netcoreapp2.0\Service.deps.json
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Service\bin\Debug\netcoreapp2.0\Service.dll
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Service\bin\Debug\netcoreapp2.0\Service.pdb
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Service\obj\Debug\netcoreapp2.0\Service.csproj.CoreCompileInputs.cache
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Service\obj\Debug\netcoreapp2.0\Service.AssemblyInfoInputs.cache
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Service\obj\Debug\netcoreapp2.0\Service.AssemblyInfo.cs
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Service\obj\Debug\netcoreapp2.0\Service.dll
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Service\obj\Debug\netcoreapp2.0\Service.pdb
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Service\obj\Debug\netcoreapp2.0\Service.csprojResolveAssemblyReference.cache
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Service\bin\Debug\netcoreapp2.0\Model.dll
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Service\bin\Debug\netcoreapp2.0\Repository.dll
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Service\bin\Debug\netcoreapp2.0\Repository.pdb
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Service\bin\Debug\netcoreapp2.0\Model.pdb
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Service\bin\Debug\netcoreapp2.0\Model.xml

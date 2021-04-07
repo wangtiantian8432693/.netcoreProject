@@ -1,0 +1,11 @@
+Microsoft.Data.SqlClient.SqlException (0x80131904): 不能将值 NULL 插入列 'Age'，表 'Test.dbo.Tb_Student'；列不允许有 Null 值。INSERT 失败。
+语句已终止。
+   at System.Data.Common.DbDataAdapter.UpdatedRowStatusErrors(RowUpdatedEventArgs rowUpdatedEvent, BatchCommandInfo[] batchCommands, Int32 commandCount)
+   at System.Data.Common.DbDataAdapter.UpdatedRowStatus(RowUpdatedEventArgs rowUpdatedEvent, BatchCommandInfo[] batchCommands, Int32 commandCount)
+   at System.Data.Common.DbDataAdapter.Update(DataRow[] dataRows, DataTableMapping tableMapping)
+   at System.Data.Common.DbDataAdapter.UpdateFromDataTable(DataTable dataTable, DataTableMapping tableMapping)
+   at System.Data.Common.DbDataAdapter.Update(DataTable dataTable)
+   at Web.NETCoreAPI.Controllers.BigDataController.MultUpdata(List`1 list, String columns, String tableName) in H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\Controllers\BigDataController.cs:line 90
+   at Web.NETCoreAPI.Controllers.BigDataController.UpdateInfos() in H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\Controllers\BigDataController.cs:line 38
+ClientConnectionId:61096fe6-f0ea-4d22-b469-408ae2e6086e
+Error Number:515,State:2,Class:16

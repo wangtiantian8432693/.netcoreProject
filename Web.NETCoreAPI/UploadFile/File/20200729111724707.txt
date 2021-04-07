@@ -1,0 +1,4 @@
+System.InvalidOperationException: SetAdded and SetModified can only be called on DataRows with Unchanged DataRowState.
+   at System.Data.DataRow.SetModified()
+   at Web.NETCoreAPI.Controllers.BigDataController.MultUpdata(List`1 list, String columns, String tableName) in H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\Controllers\BigDataController.cs:line 96
+   at Web.NETCoreAPI.Controllers.BigDataController.UpdateInfos() in H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\Controllers\BigDataController.cs:line 38

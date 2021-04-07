@@ -1,0 +1,69 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>.Net Core WebApi图片上传</title>
+    <meta charset="utf-8" />
+    <script type="text/javascript" src="http://apps.bdimg.com/libs/jquery/1.6.4/jquery.min.js"></script>
+</head>
+<body>
+    <h1>通过文件转为Base64字符提交</h1>
+    <input type="file" name="basefile" id="basefile" value="选择需要上传的文件" multiple />
+    <script type="text/javascript">
+
+        //转base64
+        $("#basefile").change(function () {
+            var basefile = base64(document.getElementById("basefile"));
+        })
+
+        //上传文件
+        function updateBackground(filename, imgurl) {
+            //提交前，去除格式标记
+            imgurl = imgurl.replace("data:image/jpeg;base64,", "").replace("data:image/png;base64,", "").replace("data:image/jpg;base64,", "").replace("data:image/gif;base64,", "").replace("data:image/bmp;base64,", "");
+            // urlElement.innerHTML = imgurl;
+            var businessParam = {
+                fileBase64: imgurl,
+                fileName: filename
+            };
+
+            $.ajax({
+                url: 'http://172.16.20.150:8081/api/File/UploadBase64',
+                data: businessParam,
+                type: 'post',
+                dataType: 'json',
+                success: function (result) {
+                    console.log(result);
+                },
+                error: function (data) {
+                    console.log(data);
+                }
+            })
+
+        }
+
+        //文件转为Base64
+        function base64(file) {
+            if (typeof (FileReader) === 'undefined') {
+                alert("抱歉，你的浏览器不支持 FileReader，请使用现代浏览器操作！");
+            }
+            var reader = new FileReader();
+            var pos = file.files[0].name.lastIndexOf(".");
+            var type = file.files[0].name.substring(pos + 1);
+            //判断文件格式
+            if (type.toLowerCase() != "png" && type.toLowerCase() != 'jpg' && type.toLowerCase() != 'jpeg' && type.toLowerCase() != 'gif' && type.toLowerCase() != 'bmp') {
+                alert("格式错误，请上传'png、jpg、jpeg、bmp、gif'格式文件");
+                return;
+            }
+            reader.onloadend = (
+                function (e) {
+                    imgurl = e.target.result;
+                    updateBackground(file.files[0].name, imgurl);
+                }
+            );
+            // Read the file
+            reader.readAsDataURL(file.files[0]);
+
+        }
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,9 @@
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Common\bin\Release\netcoreapp2.2\Common.deps.json
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Common\bin\Release\netcoreapp2.2\Common.dll
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Common\bin\Release\netcoreapp2.2\Common.pdb
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Common\obj\Release\netcoreapp2.2\Common.csproj.CoreCompileInputs.cache
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Common\obj\Release\netcoreapp2.2\Common.AssemblyInfoInputs.cache
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Common\obj\Release\netcoreapp2.2\Common.AssemblyInfo.cs
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Common\obj\Release\netcoreapp2.2\Common.dll
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Common\obj\Release\netcoreapp2.2\Common.pdb
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Common\obj\Release\netcoreapp2.2\Common.csprojResolveAssemblyReference.cache

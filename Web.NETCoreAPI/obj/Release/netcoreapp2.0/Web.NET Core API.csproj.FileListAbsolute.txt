@@ -1,0 +1,17 @@
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NET Core API\bin\Release\netcoreapp2.0\Web.NET Core API.deps.json
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NET Core API\bin\Release\netcoreapp2.0\Web.NET Core API.runtimeconfig.json
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NET Core API\bin\Release\netcoreapp2.0\Web.NET Core API.runtimeconfig.dev.json
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NET Core API\bin\Release\netcoreapp2.0\Web.NET Core API.dll
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NET Core API\bin\Release\netcoreapp2.0\Web.NET Core API.pdb
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NET Core API\bin\Release\netcoreapp2.0\Model.dll
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NET Core API\bin\Release\netcoreapp2.0\Repository.dll
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NET Core API\bin\Release\netcoreapp2.0\Service.dll
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NET Core API\bin\Release\netcoreapp2.0\Model.pdb
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NET Core API\bin\Release\netcoreapp2.0\Repository.pdb
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NET Core API\bin\Release\netcoreapp2.0\Service.pdb
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NET Core API\obj\Release\netcoreapp2.0\Web.NET Core API.csprojResolveAssemblyReference.cache
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NET Core API\obj\Release\netcoreapp2.0\Web.NET Core API.csproj.CoreCompileInputs.cache
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NET Core API\obj\Release\netcoreapp2.0\Web.NET Core API.AssemblyInfoInputs.cache
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NET Core API\obj\Release\netcoreapp2.0\Web.NET Core API.AssemblyInfo.cs
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NET Core API\obj\Release\netcoreapp2.0\Web.NET Core API.dll
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NET Core API\obj\Release\netcoreapp2.0\Web.NET Core API.pdb

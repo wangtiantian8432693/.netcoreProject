@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Model</name>
+    </assembly>
+    <members>
+        <member name="T:Model.QueryPageByClassNoDto">
+            <summary>
+            学生信息
+            </summary>
+        </member>
+        <member name="P:Model.QueryPageByClassNoDto.list">
+            <summary>
+            列表
+            </summary>
+        </member>
+        <member name="P:Model.QueryPageByClassNoDto.pageList">
+            <summary>
+            分页列表
+            </summary>
+        </member>
+        <member name="T:Model.QueryPageByClassNoDtoInput">
+            <summary>
+            学生分页
+            </summary>
+        </member>
+        <member name="M:Model.IRepositoryBase`1.Add(`0)">
+            <summary>
+            添加
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Model.IRepositoryBase`1.Delete(`0)">
+            <summary>
+            添加
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Model.IRepositoryBase`1.Update(`0)">
+            <summary>
+            修改
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Model.IRepositoryBase`1.FirstOrDefault(System.Linq.Expressions.Expression{System.Func{`0,System.Boolean}})">
+            <summary>
+            查询实体
+            </summary>
+            <param name="predicate"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Model.IRepositoryBase`1.FindList(System.Linq.Expressions.Expression{System.Func{`0,System.Boolean}},System.Boolean,System.Linq.Expressions.Expression{System.Func{`0,System.Object}}[])">
+            <summary>
+            查询实体
+            </summary>
+            <param name="predicate"></param>
+            <param name="isTrack"></param>
+            <param name="expressions"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

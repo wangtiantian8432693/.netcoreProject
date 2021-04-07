@@ -1,0 +1,7 @@
+System.InvalidOperationException: The DataAdapter.SelectCommand property needs to be initialized.
+   at System.Data.Common.DbDataAdapter.UpdatingRowStatusErrors(RowUpdatingEventArgs rowUpdatedEvent, DataRow dataRow)
+   at System.Data.Common.DbDataAdapter.Update(DataRow[] dataRows, DataTableMapping tableMapping)
+   at System.Data.Common.DbDataAdapter.UpdateFromDataTable(DataTable dataTable, DataTableMapping tableMapping)
+   at System.Data.Common.DbDataAdapter.Update(DataTable dataTable)
+   at Web.NETCoreAPI.Controllers.BigDataController.MultUpdata(List`1 list, String columns, String tableName) in H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\Controllers\BigDataController.cs:line 87
+   at Web.NETCoreAPI.Controllers.BigDataController.UpdateInfos() in H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\Controllers\BigDataController.cs:line 38

@@ -1,0 +1,17 @@
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Common\bin\Debug\netcoreapp2.2\Common.deps.json
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Common\bin\Debug\netcoreapp2.2\Common.dll
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Common\bin\Debug\netcoreapp2.2\Common.pdb
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Common\obj\Debug\netcoreapp2.2\Common.csproj.CoreCompileInputs.cache
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Common\obj\Debug\netcoreapp2.2\Common.AssemblyInfoInputs.cache
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Common\obj\Debug\netcoreapp2.2\Common.AssemblyInfo.cs
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Common\obj\Debug\netcoreapp2.2\Common.dll
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Common\obj\Debug\netcoreapp2.2\Common.pdb
+E:\Camera Roll\资料\.NET Core\Web.NET Core.Demo\Common\bin\Debug\netcoreapp2.2\Common.deps.json
+E:\Camera Roll\资料\.NET Core\Web.NET Core.Demo\Common\bin\Debug\netcoreapp2.2\Common.dll
+E:\Camera Roll\资料\.NET Core\Web.NET Core.Demo\Common\bin\Debug\netcoreapp2.2\Common.pdb
+E:\Camera Roll\资料\.NET Core\Web.NET Core.Demo\Common\obj\Debug\netcoreapp2.2\Common.csprojAssemblyReference.cache
+E:\Camera Roll\资料\.NET Core\Web.NET Core.Demo\Common\obj\Debug\netcoreapp2.2\Common.AssemblyInfoInputs.cache
+E:\Camera Roll\资料\.NET Core\Web.NET Core.Demo\Common\obj\Debug\netcoreapp2.2\Common.AssemblyInfo.cs
+E:\Camera Roll\资料\.NET Core\Web.NET Core.Demo\Common\obj\Debug\netcoreapp2.2\Common.csproj.CoreCompileInputs.cache
+E:\Camera Roll\资料\.NET Core\Web.NET Core.Demo\Common\obj\Debug\netcoreapp2.2\Common.dll
+E:\Camera Roll\资料\.NET Core\Web.NET Core.Demo\Common\obj\Debug\netcoreapp2.2\Common.pdb

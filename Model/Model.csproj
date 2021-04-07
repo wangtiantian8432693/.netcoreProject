@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Model.xml</DocumentationFile>
+    <OutputPath>Web.NETCoreAPI\bin\Debug\netcoreapp2.2\</OutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Web.NET Core API\**" />
+    <EmbeddedResource Remove="Web.NET Core API\**" />
+    <None Remove="Web.NET Core API\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Ext\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Common.csproj" />
+  </ItemGroup>
+
+</Project>

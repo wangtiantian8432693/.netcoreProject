@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Web.NET Core API</name>
+    </assembly>
+    <members>
+        <member name="T:Web.NET_Core_API.Controllers.TestController">
+            <summary>
+            测试
+            </summary>
+        </member>
+        <member name="M:Web.NET_Core_API.Controllers.TestController.#ctor(Service.ILogService)">
+            <summary>
+            构造函数
+            </summary>
+        </member>
+        <member name="M:Web.NET_Core_API.Controllers.TestController.Index(System.Int32)">
+            <summary>
+            根据Id查询信息
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Web.NET_Core_API.Controllers.TestController.GetName">
+            <summary>
+            查询名称
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Web.NET_Core_API.Controllers.TestController.QueryById(System.Int32)">
+            <summary>
+            根据Id查询列表
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Web.NET_Core_API.Controllers.ValuesController">
+            <summary>
+            默认
+            </summary>
+        </member>
+        <member name="T:Web.NET_Core_API.Program">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Web.NET_Core_API.Program.Main(System.String[])">
+            <summary>
+            启动入口
+            </summary>
+            <param name="args"></param>
+        </member>
+        <member name="M:Web.NET_Core_API.Program.BuildWebHost(System.String[])">
+            <summary>
+            
+            </summary>
+            <param name="args"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Web.NET_Core_API.Startup">
+            <summary>
+            　Startup类的执行顺序：构造 -> ConfigureServices -> Configure
+            </summary>
+        </member>
+        <member name="M:Web.NET_Core_API.Startup.#ctor(Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            构造函数
+            </summary>
+            <param name="configuration"></param>
+        </member>
+        <member name="M:Web.NET_Core_API.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            服务注册：配置应用需要的服务、将服务注册到容器中，可以是第三方组件配置依赖注入
+            </summary>
+            <param name="services"></param>
+        </member>
+        <member name="M:Web.NET_Core_API.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IHostingEnvironment)">
+            <summary>
+            中间件：创建应用的请求处理处理管道
+            </summary>
+            <param name="app"></param>
+            <param name="env"></param>
+        </member>
+    </members>
+</doc>

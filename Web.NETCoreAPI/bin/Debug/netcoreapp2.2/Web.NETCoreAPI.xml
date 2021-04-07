@@ -1,0 +1,222 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Web.NETCoreAPI</name>
+    </assembly>
+    <members>
+        <member name="T:Web.NETCoreAPI.Controllers.BaseController">
+            <summary>
+            基础
+            </summary>
+        </member>
+        <member name="M:Web.NETCoreAPI.Controllers.BaseController.Getoutref">
+            <summary>
+            out：只出不进 ref：有进有出
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Web.NETCoreAPI.Controllers.BaseController.QueryList">
+            <summary>
+            查询列表
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Web.NETCoreAPI.Controllers.BaseController.QueryListDto">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Web.NETCoreAPI.Controllers.BigDataController">
+            <summary>
+            批量操作数据
+            </summary>
+        </member>
+        <member name="F:Web.NETCoreAPI.Controllers.BigDataController.connString">
+            <summary>
+            数据库连接字符串
+            </summary>
+        </member>
+        <member name="M:Web.NETCoreAPI.Controllers.BigDataController.Inserts">
+            <summary>
+            批量新增信息（datatable底层 SqlDataAdapter Update 内存映射）
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Web.NETCoreAPI.Controllers.BigDataController.InsertInfos">
+            <summary>
+            将datatable写入数据库
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Web.NETCoreAPI.Controllers.BigDataController.Updatas">
+            <summary>
+            批量更新信息（datatable底层 SqlDataAdapter Update 内存映射）
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Web.NETCoreAPI.Controllers.CacheController">
+            <summary>
+            缓存
+            </summary>
+        </member>
+        <member name="M:Web.NETCoreAPI.Controllers.CacheController.RemoveCacheAll">
+            <summary>
+            清除所有缓存
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Web.NETCoreAPI.Controllers.CacheController.RemoveCacheRegex(System.String)">
+            <summary>
+             清除匹配到的缓存
+            </summary>
+            <param name="pattern"></param>
+        </member>
+        <member name="M:Web.NETCoreAPI.Controllers.CacheController.GetCacheKeys">
+            <summary>
+            获取所有缓存类
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Web.NETCoreAPI.Controllers.WechatController">
+            <summary>
+            微信
+            </summary>
+        </member>
+        <member name="M:Web.NETCoreAPI.Controllers.WechatController.GetUserInfo(System.String)">
+            <summary>
+            获取用户信息
+            </summary>
+            <param name="openId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Web.NETCoreAPI.Controllers.WechatController.GetUserInfos">
+            <summary>
+            获取用户列表
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Web.NETCoreAPI.Controllers.WechatController.InsertCsd">
+            <summary>
+            添加客服
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Web.NETCoreAPI.Controllers.WechatController.QueryCsds">
+            <summary>
+            获取所有客服信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Web.NETCoreAPI.FileController">
+            <summary>
+            文件操作类
+            </summary>
+        </member>
+        <member name="M:Web.NETCoreAPI.FileController.UploadImg(System.Collections.Generic.List{Microsoft.AspNetCore.Http.IFormFile})">
+            <summary>
+            上传图片
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Web.NETCoreAPI.FileController.UploadBase64(System.String,System.String)">
+            <summary>
+            文件上传，Base64
+            </summary>
+            <param name="fileBase64">Base64</param>
+            <param name="fileName">文件名</param>
+            <returns></returns>
+        </member>
+        <member name="T:Web.NET_Core_API.Controllers.HomeController">
+            <summary>
+            Home
+            </summary>
+        </member>
+        <member name="M:Web.NET_Core_API.Controllers.HomeController.#ctor(Service.IStudentService)">
+            <summary>
+            构造函数
+            </summary>
+        </member>
+        <member name="M:Web.NET_Core_API.Controllers.HomeController.QuerysByClassNo(Model.GetStudentByIdInput)">
+            <summary>
+            根据Id查询信息
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+            
+        </member>
+        <member name="M:Web.NET_Core_API.Controllers.HomeController.QueryPageByClassNo(Model.QueryPageByClassNoDtoInput)">
+            <summary>
+            查询分页列表
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+            
+        </member>
+        <member name="M:Web.NET_Core_API.Controllers.HomeController.GetNumber">
+            <summary>
+             两台机器相加到10
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Web.NET_Core_API.Controllers.HomeController.DownloadOrders">
+            <summary>
+            导出
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Web.NET_Core_API.PreventSpamAttribute">
+            <summary>
+            api安全阻止请求类
+            </summary>
+        </member>
+        <member name="M:Web.NET_Core_API.PreventSpamAttribute.OnActionExecuting(Microsoft.AspNetCore.Mvc.Filters.ActionExecutingContext)">
+            <summary>
+            控制器中加了该属性的方法中代码执行之前该方法。
+            所以可以用做权限校验。
+            </summary>
+            <param name="context"></param>
+        </member>
+        <member name="T:Web.NET_Core_API.Program">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Web.NET_Core_API.Program.Main(System.String[])">
+            <summary>
+            启动入口
+            </summary>
+            <param name="args"></param>
+        </member>
+        <member name="M:Web.NET_Core_API.Program.BuildWebHost(System.String[])">
+            <summary>
+            
+            </summary>
+            <param name="args"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Web.NET_Core_API.Startup">
+            <summary>
+            　Startup类的执行顺序：构造 -> ConfigureServices -> Configure
+            </summary>
+        </member>
+        <member name="M:Web.NET_Core_API.Startup.#ctor(Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            构造函数
+            </summary>
+            <param name="configuration"></param>
+        </member>
+        <member name="M:Web.NET_Core_API.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            服务注册：配置应用需要的服务、将服务注册到容器中，可以是第三方组件配置依赖注入
+            </summary>
+            <param name="services"></param>
+        </member>
+        <member name="M:Web.NET_Core_API.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IHostingEnvironment)">
+            <summary>
+            中间件：创建应用的请求处理处理管道
+            </summary>
+            <param name="app"></param>
+            <param name="env"></param>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Model</name>
+    </assembly>
+    <members>
+        <member name="T:Model.Info">
+            <summary>
+            信息
+            </summary>
+        </member>
+        <member name="P:Model.Info.Name">
+            <summary>
+            名称
+            </summary>
+        </member>
+    </members>
+</doc>

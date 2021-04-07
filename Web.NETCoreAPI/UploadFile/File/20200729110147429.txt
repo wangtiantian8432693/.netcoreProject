@@ -1,0 +1,5 @@
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Web.NETCoreAPI.Controllers.BigDataController.MultUpdata(List`1 list, String columns, String tableName) in H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\Controllers\BigDataController.cs:line 87
+   at Web.NETCoreAPI.Controllers.BigDataController.UpdateInfos() in H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\Controllers\BigDataController.cs:line 38

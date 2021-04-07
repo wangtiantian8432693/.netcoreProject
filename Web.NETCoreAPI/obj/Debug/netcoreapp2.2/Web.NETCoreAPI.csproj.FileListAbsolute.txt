@@ -1,0 +1,61 @@
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NET Core API\bin\Debug\netcoreapp2.2\Web.NETCoreAPI.deps.json
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NET Core API\bin\Debug\netcoreapp2.2\Web.NETCoreAPI.runtimeconfig.json
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NET Core API\bin\Debug\netcoreapp2.2\Web.NETCoreAPI.runtimeconfig.dev.json
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NET Core API\bin\Debug\netcoreapp2.2\Web.NETCoreAPI.dll
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NET Core API\bin\Debug\netcoreapp2.2\Web.NETCoreAPI.pdb
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NET Core API\bin\Debug\netcoreapp2.2\Web.NET Core API.xml
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NET Core API\bin\Debug\netcoreapp2.2\Model.dll
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NET Core API\bin\Debug\netcoreapp2.2\Repository.dll
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NET Core API\bin\Debug\netcoreapp2.2\Service.dll
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NET Core API\bin\Debug\netcoreapp2.2\Model.pdb
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NET Core API\bin\Debug\netcoreapp2.2\Model.xml
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NET Core API\bin\Debug\netcoreapp2.2\Repository.pdb
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NET Core API\bin\Debug\netcoreapp2.2\Service.pdb
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NET Core API\obj\Debug\netcoreapp2.2\Web.NETCoreAPI.csprojResolveAssemblyReference.cache
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NET Core API\obj\Debug\netcoreapp2.2\Web.NETCoreAPI.csproj.CoreCompileInputs.cache
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NET Core API\obj\Debug\netcoreapp2.2\Web.NETCoreAPI.AssemblyInfoInputs.cache
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NET Core API\obj\Debug\netcoreapp2.2\Web.NETCoreAPI.AssemblyInfo.cs
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NET Core API\obj\Debug\netcoreapp2.2\Web.NETCoreAPI.dll
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NET Core API\obj\Debug\netcoreapp2.2\Web.NETCoreAPI.pdb
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Web.NETCoreAPI.xml
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Web.NETCoreAPI.deps.json
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Web.NETCoreAPI.runtimeconfig.json
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Web.NETCoreAPI.runtimeconfig.dev.json
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Web.NETCoreAPI.dll
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Common.dll
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Model.dll
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Repository.dll
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Service.dll
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Common.pdb
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Model.pdb
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Model.xml
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Repository.pdb
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Service.pdb
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\obj\Debug\netcoreapp2.2\Web.NETCoreAPI.csprojResolveAssemblyReference.cache
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\obj\Debug\netcoreapp2.2\Web.NETCoreAPI.csproj.CoreCompileInputs.cache
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\obj\Debug\netcoreapp2.2\Web.NETCoreAPI.AssemblyInfoInputs.cache
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\obj\Debug\netcoreapp2.2\Web.NETCoreAPI.AssemblyInfo.cs
+H:\Wangtiantian\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\obj\Debug\netcoreapp2.2\Web.NETCoreAPI.dll
+E:\Camera Roll\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\Camera Roll\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\appsettings.json
+E:\Camera Roll\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Web.NETCoreAPI.xml
+E:\Camera Roll\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Web.NETCoreAPI.deps.json
+E:\Camera Roll\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Web.NETCoreAPI.runtimeconfig.json
+E:\Camera Roll\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Web.NETCoreAPI.runtimeconfig.dev.json
+E:\Camera Roll\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Web.NETCoreAPI.dll
+E:\Camera Roll\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Common.dll
+E:\Camera Roll\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Model.dll
+E:\Camera Roll\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Repository.dll
+E:\Camera Roll\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Service.dll
+E:\Camera Roll\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Common.pdb
+E:\Camera Roll\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Model.pdb
+E:\Camera Roll\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Model.xml
+E:\Camera Roll\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Repository.pdb
+E:\Camera Roll\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Service.pdb
+E:\Camera Roll\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\obj\Debug\netcoreapp2.2\Web.NETCoreAPI.csprojAssemblyReference.cache
+E:\Camera Roll\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\obj\Debug\netcoreapp2.2\Web.NETCoreAPI.AssemblyInfoInputs.cache
+E:\Camera Roll\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\obj\Debug\netcoreapp2.2\Web.NETCoreAPI.AssemblyInfo.cs
+E:\Camera Roll\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\obj\Debug\netcoreapp2.2\Web.NETCoreAPI.csproj.CoreCompileInputs.cache
+E:\Camera Roll\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\obj\Debug\netcoreapp2.2\Web.NETCoreAPI.csproj.CopyComplete
+E:\Camera Roll\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\obj\Debug\netcoreapp2.2\Web.NETCoreAPI.dll
+E:\Camera Roll\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\obj\Debug\netcoreapp2.2\Web.NETCoreAPI.genruntimeconfig.cache
