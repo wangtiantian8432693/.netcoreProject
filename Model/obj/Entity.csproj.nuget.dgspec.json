@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Camera Roll\\资料\\.NET Core\\.net core\\.netcoreProject\\Model\\Model.csproj": {}
+    "E:\\Camera Roll\\资料\\.NET Core\\.net core\\.netcoreProject\\Model\\Entity.csproj": {}
   },
   "projects": {
     "E:\\Camera Roll\\资料\\.NET Core\\.net core\\.netcoreProject\\Common\\Common.csproj": {
@@ -76,12 +76,12 @@
         }
       }
     },
-    "E:\\Camera Roll\\资料\\.NET Core\\.net core\\.netcoreProject\\Model\\Model.csproj": {
+    "E:\\Camera Roll\\资料\\.NET Core\\.net core\\.netcoreProject\\Model\\Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Camera Roll\\资料\\.NET Core\\.net core\\.netcoreProject\\Model\\Model.csproj",
-        "projectName": "Model",
-        "projectPath": "E:\\Camera Roll\\资料\\.NET Core\\.net core\\.netcoreProject\\Model\\Model.csproj",
+        "projectUniqueName": "E:\\Camera Roll\\资料\\.NET Core\\.net core\\.netcoreProject\\Model\\Entity.csproj",
+        "projectName": "Entity",
+        "projectPath": "E:\\Camera Roll\\资料\\.NET Core\\.net core\\.netcoreProject\\Model\\Entity.csproj",
         "packagesPath": "C:\\Users\\w\\.nuget\\packages\\",
         "outputPath": "E:\\Camera Roll\\资料\\.NET Core\\.net core\\.netcoreProject\\Model\\obj\\",
         "projectStyle": "PackageReference",

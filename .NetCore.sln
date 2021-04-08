@@ -1,19 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27004.2010
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Model", "Model\Model.csproj", "{E0DAE8B0-70D0-4BE6-B496-B9DE452BBEA9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entity", "Model\Entity.csproj", "{E0DAE8B0-70D0-4BE6-B496-B9DE452BBEA9}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Service", "Service\Service.csproj", "{A1D1F5B2-2C95-4500-B26F-A26DBB5A1862}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repository", "Repository\Repository.csproj", "{0B5FA75E-A431-4B00-B76C-D6DF9994D6DE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web.NETCoreAPI", "Web.NETCoreAPI\Web.NETCoreAPI.csproj", "{83DEC382-EC23-4BDB-9B48-FEF29B49EE23}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web.NetCoreApi", "Web.NETCoreAPI\Web.NetCoreApi.csproj", "{83DEC382-EC23-4BDB-9B48-FEF29B49EE23}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common", "Common\Common.csproj", "{B75C0666-3405-4A6D-83FD-0D3800F09566}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Console", "ConsoleApp1\Console.csproj", "{9CA74786-DA8E-48F0-9BE4-008776A2B209}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLibraryDLL", "ClassLibraryDLL\ClassLibraryDLL.csproj", "{10F49128-5999-4C24-89AB-2146FB32CDF2}"
 EndProject
@@ -43,10 +41,6 @@ Global
 		{B75C0666-3405-4A6D-83FD-0D3800F09566}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B75C0666-3405-4A6D-83FD-0D3800F09566}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B75C0666-3405-4A6D-83FD-0D3800F09566}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9CA74786-DA8E-48F0-9BE4-008776A2B209}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9CA74786-DA8E-48F0-9BE4-008776A2B209}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9CA74786-DA8E-48F0-9BE4-008776A2B209}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9CA74786-DA8E-48F0-9BE4-008776A2B209}.Release|Any CPU.Build.0 = Release|Any CPU
 		{10F49128-5999-4C24-89AB-2146FB32CDF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{10F49128-5999-4C24-89AB-2146FB32CDF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10F49128-5999-4C24-89AB-2146FB32CDF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
