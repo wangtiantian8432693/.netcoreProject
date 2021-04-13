@@ -72,47 +72,17 @@ namespace Web.NET_Core_API.Controllers
         /// </summary>
         /// <returns></returns>
         [Route("GetNumber")]
-        [HttpPost]
-        public async Task<string> GetNumber()
+        [HttpGet]
+        public async Task<string> GetSiLuInfo()
         {
-            try
-            {
-                var key = "number";
-                int number = 0;
-                if (MemoryCacheHelper.Exists(key))
-                {
-                    number = (int)MemoryCacheHelper.Get(key);
-                }
-                if (number > 10)
-                {
-                    return await Task.FromResult("已经到10了不再相加");
-                }
-                //1.客户端传值
-                //2.存数据库
-                //3.存redis缓存
-                var num = new Random().Next(1, 1000);
-                if (num % 2 == 0)
-                {
-                    number++;
-                }
-                else
-                {
-                    number++;
-                }
-                MemoryCacheHelper.Set(key, number, TimeSpan.FromMinutes(10));
-                return await Task.FromResult(number.ToString());
-            }
-            catch (Exception ex)
-            {
-                LogOperation.WriteLog(ex.ToString());
-                throw ex;
-            }
+            var txt = "思路：1.服务端不存值，把值放在客户端/数据库/redis缓存，第一次默认传1，每次计算把结果传入服务端计算即可。";
+            return await Task.FromResult(txt);
         }
 
         #region File操作
 
         /// <summary>
-        /// 导出
+        /// query student import Excel
         /// </summary>
         /// <returns></returns>
         [Route("DownloadOrders")]
@@ -126,8 +96,7 @@ namespace Web.NET_Core_API.Controllers
             {
                 Directory.CreateDirectory(path);
             }
-            var name = "测试.xlsx";
-            path += name;
+            path += "student.xlsx";
 
             using (var fs = new FileStream(path, FileMode.Create, FileAccess.Write))
             {
@@ -137,14 +106,15 @@ namespace Web.NET_Core_API.Controllers
                 header.CreateCell(0).SetCellValue("ID");
                 header.CreateCell(1).SetCellValue("Name");
                 header.CreateCell(2).SetCellValue("CreateTime");
-                var rowIndex = 1;
+
+                var index = 1;
                 foreach (var item in list)
                 {
-                    var datarow = sheet.CreateRow(rowIndex);
+                    var datarow = sheet.CreateRow(index);
                     datarow.CreateCell(0).SetCellValue(item.ID);
                     datarow.CreateCell(1).SetCellValue(item.Name);
                     datarow.CreateCell(2).SetCellValue(item.CreateTime.ToString("yyyy-MM-dd HH:mm:ss"));
-                    rowIndex++;
+                    index++;
                 }
                 workbook.Write(fs);
             }

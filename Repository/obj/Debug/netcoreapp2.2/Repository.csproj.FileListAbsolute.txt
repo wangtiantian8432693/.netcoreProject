@@ -27,3 +27,45 @@ E:\Camera Roll\资料\.NET Core\Web.NET Core.Demo\Repository\obj\Debug\netcoreap
 E:\Camera Roll\资料\.NET Core\Web.NET Core.Demo\Repository\obj\Debug\netcoreapp2.2\Repository.csproj.CopyComplete
 E:\Camera Roll\资料\.NET Core\Web.NET Core.Demo\Repository\obj\Debug\netcoreapp2.2\Repository.dll
 E:\Camera Roll\资料\.NET Core\Web.NET Core.Demo\Repository\obj\Debug\netcoreapp2.2\Repository.pdb
+E:\Camera Roll\资料\.NET Core\.net core\.netcoreProject\Repository\bin\Debug\netcoreapp2.2\Repository.deps.json
+E:\Camera Roll\资料\.NET Core\.net core\.netcoreProject\Repository\bin\Debug\netcoreapp2.2\Repository.dll
+E:\Camera Roll\资料\.NET Core\.net core\.netcoreProject\Repository\bin\Debug\netcoreapp2.2\Repository.pdb
+E:\Camera Roll\资料\.NET Core\.net core\.netcoreProject\Repository\bin\Debug\netcoreapp2.2\Common.dll
+E:\Camera Roll\资料\.NET Core\.net core\.netcoreProject\Repository\bin\Debug\netcoreapp2.2\Entity.dll
+E:\Camera Roll\资料\.NET Core\.net core\.netcoreProject\Repository\bin\Debug\netcoreapp2.2\Entity.pdb
+E:\Camera Roll\资料\.NET Core\.net core\.netcoreProject\Repository\bin\Debug\netcoreapp2.2\Common.pdb
+E:\Camera Roll\资料\.NET Core\.net core\.netcoreProject\Repository\obj\Debug\netcoreapp2.2\Repository.csprojAssemblyReference.cache
+E:\Camera Roll\资料\.NET Core\.net core\.netcoreProject\Repository\obj\Debug\netcoreapp2.2\Repository.AssemblyInfoInputs.cache
+E:\Camera Roll\资料\.NET Core\.net core\.netcoreProject\Repository\obj\Debug\netcoreapp2.2\Repository.AssemblyInfo.cs
+E:\Camera Roll\资料\.NET Core\.net core\.netcoreProject\Repository\obj\Debug\netcoreapp2.2\Repository.csproj.CoreCompileInputs.cache
+E:\Camera Roll\资料\.NET Core\.net core\.netcoreProject\Repository\obj\Debug\netcoreapp2.2\Repository.csproj.CopyComplete
+E:\Camera Roll\资料\.NET Core\.net core\.netcoreProject\Repository\obj\Debug\netcoreapp2.2\Repository.dll
+E:\Camera Roll\资料\.NET Core\.net core\.netcoreProject\Repository\obj\Debug\netcoreapp2.2\Repository.pdb
+E:\Camera Roll\demo\.NET Core\.net core\.netcoreProject\Repository\bin\Debug\netcoreapp2.2\Repository.deps.json
+E:\Camera Roll\demo\.NET Core\.net core\.netcoreProject\Repository\bin\Debug\netcoreapp2.2\Repository.dll
+E:\Camera Roll\demo\.NET Core\.net core\.netcoreProject\Repository\bin\Debug\netcoreapp2.2\Repository.pdb
+E:\Camera Roll\demo\.NET Core\.net core\.netcoreProject\Repository\bin\Debug\netcoreapp2.2\Common.dll
+E:\Camera Roll\demo\.NET Core\.net core\.netcoreProject\Repository\bin\Debug\netcoreapp2.2\Entity.dll
+E:\Camera Roll\demo\.NET Core\.net core\.netcoreProject\Repository\bin\Debug\netcoreapp2.2\Entity.pdb
+E:\Camera Roll\demo\.NET Core\.net core\.netcoreProject\Repository\bin\Debug\netcoreapp2.2\Common.pdb
+E:\Camera Roll\demo\.NET Core\.net core\.netcoreProject\Repository\obj\Debug\netcoreapp2.2\Repository.csprojAssemblyReference.cache
+E:\Camera Roll\demo\.NET Core\.net core\.netcoreProject\Repository\obj\Debug\netcoreapp2.2\Repository.AssemblyInfoInputs.cache
+E:\Camera Roll\demo\.NET Core\.net core\.netcoreProject\Repository\obj\Debug\netcoreapp2.2\Repository.AssemblyInfo.cs
+E:\Camera Roll\demo\.NET Core\.net core\.netcoreProject\Repository\obj\Debug\netcoreapp2.2\Repository.csproj.CoreCompileInputs.cache
+E:\Camera Roll\demo\.NET Core\.net core\.netcoreProject\Repository\obj\Debug\netcoreapp2.2\Repository.csproj.CopyComplete
+E:\Camera Roll\demo\.NET Core\.net core\.netcoreProject\Repository\obj\Debug\netcoreapp2.2\Repository.dll
+E:\Camera Roll\demo\.NET Core\.net core\.netcoreProject\Repository\obj\Debug\netcoreapp2.2\Repository.pdb
+E:\Camera Roll\.net core\.NET Core\.net core\.netcoreProject\Repository\bin\Debug\netcoreapp2.2\Repository.deps.json
+E:\Camera Roll\.net core\.NET Core\.net core\.netcoreProject\Repository\bin\Debug\netcoreapp2.2\Repository.dll
+E:\Camera Roll\.net core\.NET Core\.net core\.netcoreProject\Repository\bin\Debug\netcoreapp2.2\Repository.pdb
+E:\Camera Roll\.net core\.NET Core\.net core\.netcoreProject\Repository\bin\Debug\netcoreapp2.2\Common.dll
+E:\Camera Roll\.net core\.NET Core\.net core\.netcoreProject\Repository\bin\Debug\netcoreapp2.2\Entity.dll
+E:\Camera Roll\.net core\.NET Core\.net core\.netcoreProject\Repository\bin\Debug\netcoreapp2.2\Entity.pdb
+E:\Camera Roll\.net core\.NET Core\.net core\.netcoreProject\Repository\bin\Debug\netcoreapp2.2\Common.pdb
+E:\Camera Roll\.net core\.NET Core\.net core\.netcoreProject\Repository\obj\Debug\netcoreapp2.2\Repository.csprojAssemblyReference.cache
+E:\Camera Roll\.net core\.NET Core\.net core\.netcoreProject\Repository\obj\Debug\netcoreapp2.2\Repository.AssemblyInfoInputs.cache
+E:\Camera Roll\.net core\.NET Core\.net core\.netcoreProject\Repository\obj\Debug\netcoreapp2.2\Repository.AssemblyInfo.cs
+E:\Camera Roll\.net core\.NET Core\.net core\.netcoreProject\Repository\obj\Debug\netcoreapp2.2\Repository.csproj.CoreCompileInputs.cache
+E:\Camera Roll\.net core\.NET Core\.net core\.netcoreProject\Repository\obj\Debug\netcoreapp2.2\Repository.csproj.CopyComplete
+E:\Camera Roll\.net core\.NET Core\.net core\.netcoreProject\Repository\obj\Debug\netcoreapp2.2\Repository.dll
+E:\Camera Roll\.net core\.NET Core\.net core\.netcoreProject\Repository\obj\Debug\netcoreapp2.2\Repository.pdb

@@ -5472,26 +5472,26 @@
           "bin/placeholder/Common.dll": {}
         }
       },
-      "Model/1.0.0": {
+      "Entity/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.2",
         "dependencies": {
           "Common": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/Model.dll": {}
+          "bin/placeholder/Entity.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Model.dll": {}
+          "bin/placeholder/Entity.dll": {}
         }
       },
       "Repository/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.2",
         "dependencies": {
+          "Entity": "1.0.0",
           "Microsoft.EntityFrameworkCore.Relational": "3.1.5",
-          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.5",
-          "Model": "1.0.0"
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.5"
         },
         "compile": {
           "bin/placeholder/Repository.dll": {}
@@ -14847,10 +14847,10 @@
       "path": "../Common/Common.csproj",
       "msbuildProject": "../Common/Common.csproj"
     },
-    "Model/1.0.0": {
+    "Entity/1.0.0": {
       "type": "project",
-      "path": "../Model/Model.csproj",
-      "msbuildProject": "../Model/Model.csproj"
+      "path": "../Model/Entity.csproj",
+      "msbuildProject": "../Model/Entity.csproj"
     },
     "Repository/1.0.0": {
       "type": "project",
@@ -14868,11 +14868,11 @@
       "AspNetCoreRateLimit >= 3.0.5",
       "AutoMapper >= 10.0.0",
       "Common >= 1.0.0",
+      "Entity >= 1.0.0",
       "FastMember >= 1.5.0",
       "Microsoft.AspNetCore.All >= 2.0.3",
       "Microsoft.NETCore.App >= 2.2.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.0.0",
-      "Model >= 1.0.0",
       "Repository >= 1.0.0",
       "Service >= 1.0.0",
       "Swashbuckle.AspNetCore >= 5.4.1",
@@ -14886,11 +14886,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Camera Roll\\资料\\.NET Core\\Web.NET Core.Demo\\Web.NETCoreAPI\\Web.NETCoreAPI.csproj",
-      "projectName": "Web.NETCoreAPI",
-      "projectPath": "E:\\Camera Roll\\资料\\.NET Core\\Web.NET Core.Demo\\Web.NETCoreAPI\\Web.NETCoreAPI.csproj",
+      "projectUniqueName": "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Web.NETCoreAPI\\Web.NetCoreApi.csproj",
+      "projectName": "Web.NetCoreApi",
+      "projectPath": "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Web.NETCoreAPI\\Web.NetCoreApi.csproj",
       "packagesPath": "C:\\Users\\w\\.nuget\\packages\\",
-      "outputPath": "E:\\Camera Roll\\资料\\.NET Core\\Web.NET Core.Demo\\Web.NETCoreAPI\\obj\\",
+      "outputPath": "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Web.NETCoreAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -14910,17 +14910,17 @@
         "netcoreapp2.2": {
           "targetAlias": "netcoreapp2.2",
           "projectReferences": {
-            "E:\\Camera Roll\\资料\\.NET Core\\Web.NET Core.Demo\\Common\\Common.csproj": {
-              "projectPath": "E:\\Camera Roll\\资料\\.NET Core\\Web.NET Core.Demo\\Common\\Common.csproj"
+            "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Common\\Common.csproj": {
+              "projectPath": "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Common\\Common.csproj"
             },
-            "E:\\Camera Roll\\资料\\.NET Core\\Web.NET Core.Demo\\Model\\Model.csproj": {
-              "projectPath": "E:\\Camera Roll\\资料\\.NET Core\\Web.NET Core.Demo\\Model\\Model.csproj"
+            "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Model\\Entity.csproj": {
+              "projectPath": "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Model\\Entity.csproj"
             },
-            "E:\\Camera Roll\\资料\\.NET Core\\Web.NET Core.Demo\\Repository\\Repository.csproj": {
-              "projectPath": "E:\\Camera Roll\\资料\\.NET Core\\Web.NET Core.Demo\\Repository\\Repository.csproj"
+            "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Repository\\Repository.csproj": {
+              "projectPath": "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Repository\\Repository.csproj"
             },
-            "E:\\Camera Roll\\资料\\.NET Core\\Web.NET Core.Demo\\Service\\Service.csproj": {
-              "projectPath": "E:\\Camera Roll\\资料\\.NET Core\\Web.NET Core.Demo\\Service\\Service.csproj"
+            "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Service\\Service.csproj": {
+              "projectPath": "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Service\\Service.csproj"
             }
           }
         }

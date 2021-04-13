@@ -154,5 +154,6 @@ namespace Web.NETCoreAPI.Controllers
             var result = HttpClient.HttpPostWeChatApi(url, postdata);
             return Ok(result);
         }
+   
     }
 }

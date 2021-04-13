@@ -16,6 +16,11 @@ namespace Web.NETCoreAPI.Controllers
     public class BaseController : Controller
     {
         private IStudentService _studentService;
+
+        /// <summary>
+        /// base controller
+        /// </summary>
+        /// <param name="studentService"></param>
         public BaseController(IStudentService studentService)
         {
             _studentService = studentService;
@@ -44,26 +49,30 @@ namespace Web.NETCoreAPI.Controllers
         public async Task<List<QueryListDto>> QueryList()
         {
             var list = new List<QueryListDto>();
-            list.Add(new QueryListDto { ID = 1, Name = "张三" });
+            list.Add(new QueryListDto { ID = 1, Name = "张三0" });
             list.Add(new QueryListDto { ID = 2, Name = "张三1" });
-            list.Add(new QueryListDto { ID = 3, Name = "张三3" });
-            list.Add(new QueryListDto { ID = 4, Name = "张三4" });
+            list.Add(new QueryListDto { ID = 3, Name = "张三2" });
+            list.Add(new QueryListDto { ID = 4, Name = "张三3" });
 
-            //list操作
-      
-
-            int i = list.Select(t=>t.Name).ToList().BinarySearch("张三");
+            //根据名称获取当前索引
+            int i = list.Select(t => t.Name).ToList().BinarySearch("张三2");
 
             return await Task.FromResult(new List<QueryListDto>());
         }
 
         /// <summary>
-        /// 
+        ///Viewmodel of query list
         /// </summary>
         public class QueryListDto
         {
+            /// <summary>
+            /// ID
+            /// </summary>
             public int ID { get; set; }
 
+            /// <summary>
+            /// 名称
+            /// </summary>
             public string Name { get; set; }
         }
     }

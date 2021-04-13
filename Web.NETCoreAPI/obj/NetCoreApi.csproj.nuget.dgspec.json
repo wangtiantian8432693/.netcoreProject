@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Web.NETCoreAPI\\Web.NetCoreApi.csproj": {}
+    "E:\\Camera Roll\\资料\\.NET Core\\.net core\\.netcoreProject\\Web.NETCoreAPI\\NetCoreApi.csproj": {}
   },
   "projects": {
-    "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Common\\Common.csproj": {
+    "E:\\Camera Roll\\资料\\.NET Core\\.net core\\.netcoreProject\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Common\\Common.csproj",
+        "projectUniqueName": "E:\\Camera Roll\\资料\\.NET Core\\.net core\\.netcoreProject\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Common\\Common.csproj",
+        "projectPath": "E:\\Camera Roll\\资料\\.NET Core\\.net core\\.netcoreProject\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\w\\.nuget\\packages\\",
-        "outputPath": "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Common\\obj\\",
+        "outputPath": "E:\\Camera Roll\\资料\\.NET Core\\.net core\\.netcoreProject\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -76,14 +76,14 @@
         }
       }
     },
-    "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Model\\Entity.csproj": {
+    "E:\\Camera Roll\\资料\\.NET Core\\.net core\\.netcoreProject\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Model\\Entity.csproj",
-        "projectName": "Entity",
-        "projectPath": "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Model\\Entity.csproj",
+        "projectUniqueName": "E:\\Camera Roll\\资料\\.NET Core\\.net core\\.netcoreProject\\Model\\Model.csproj",
+        "projectName": "Model",
+        "projectPath": "E:\\Camera Roll\\资料\\.NET Core\\.net core\\.netcoreProject\\Model\\Model.csproj",
         "packagesPath": "C:\\Users\\w\\.nuget\\packages\\",
-        "outputPath": "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Model\\obj\\",
+        "outputPath": "E:\\Camera Roll\\资料\\.NET Core\\.net core\\.netcoreProject\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -103,8 +103,8 @@
           "netcoreapp2.2": {
             "targetAlias": "netcoreapp2.2",
             "projectReferences": {
-              "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Common\\Common.csproj": {
-                "projectPath": "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Common\\Common.csproj"
+              "E:\\Camera Roll\\资料\\.NET Core\\.net core\\.netcoreProject\\Common\\Common.csproj": {
+                "projectPath": "E:\\Camera Roll\\资料\\.NET Core\\.net core\\.netcoreProject\\Common\\Common.csproj"
               }
             }
           }
@@ -140,14 +140,14 @@
         }
       }
     },
-    "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Repository\\Repository.csproj": {
+    "E:\\Camera Roll\\资料\\.NET Core\\.net core\\.netcoreProject\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Repository\\Repository.csproj",
+        "projectUniqueName": "E:\\Camera Roll\\资料\\.NET Core\\.net core\\.netcoreProject\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Repository\\Repository.csproj",
+        "projectPath": "E:\\Camera Roll\\资料\\.NET Core\\.net core\\.netcoreProject\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\w\\.nuget\\packages\\",
-        "outputPath": "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Repository\\obj\\",
+        "outputPath": "E:\\Camera Roll\\资料\\.NET Core\\.net core\\.netcoreProject\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -167,8 +167,8 @@
           "netcoreapp2.2": {
             "targetAlias": "netcoreapp2.2",
             "projectReferences": {
-              "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Model\\Entity.csproj": {
-                "projectPath": "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Model\\Entity.csproj"
+              "E:\\Camera Roll\\资料\\.NET Core\\.net core\\.netcoreProject\\Model\\Model.csproj": {
+                "projectPath": "E:\\Camera Roll\\资料\\.NET Core\\.net core\\.netcoreProject\\Model\\Model.csproj"
               }
             }
           }
@@ -212,14 +212,14 @@
         }
       }
     },
-    "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Service\\Service.csproj": {
+    "E:\\Camera Roll\\资料\\.NET Core\\.net core\\.netcoreProject\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Service\\Service.csproj",
+        "projectUniqueName": "E:\\Camera Roll\\资料\\.NET Core\\.net core\\.netcoreProject\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Service\\Service.csproj",
+        "projectPath": "E:\\Camera Roll\\资料\\.NET Core\\.net core\\.netcoreProject\\Service\\Service.csproj",
         "packagesPath": "C:\\Users\\w\\.nuget\\packages\\",
-        "outputPath": "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Service\\obj\\",
+        "outputPath": "E:\\Camera Roll\\资料\\.NET Core\\.net core\\.netcoreProject\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -239,11 +239,11 @@
           "netcoreapp2.2": {
             "targetAlias": "netcoreapp2.2",
             "projectReferences": {
-              "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Common\\Common.csproj": {
-                "projectPath": "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Common\\Common.csproj"
+              "E:\\Camera Roll\\资料\\.NET Core\\.net core\\.netcoreProject\\Common\\Common.csproj": {
+                "projectPath": "E:\\Camera Roll\\资料\\.NET Core\\.net core\\.netcoreProject\\Common\\Common.csproj"
               },
-              "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Repository\\Repository.csproj": {
-                "projectPath": "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Repository\\Repository.csproj"
+              "E:\\Camera Roll\\资料\\.NET Core\\.net core\\.netcoreProject\\Repository\\Repository.csproj": {
+                "projectPath": "E:\\Camera Roll\\资料\\.NET Core\\.net core\\.netcoreProject\\Repository\\Repository.csproj"
               }
             }
           }
@@ -283,14 +283,14 @@
         }
       }
     },
-    "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Web.NETCoreAPI\\Web.NetCoreApi.csproj": {
+    "E:\\Camera Roll\\资料\\.NET Core\\.net core\\.netcoreProject\\Web.NETCoreAPI\\NetCoreApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Web.NETCoreAPI\\Web.NetCoreApi.csproj",
-        "projectName": "Web.NetCoreApi",
-        "projectPath": "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Web.NETCoreAPI\\Web.NetCoreApi.csproj",
+        "projectUniqueName": "E:\\Camera Roll\\资料\\.NET Core\\.net core\\.netcoreProject\\Web.NETCoreAPI\\NetCoreApi.csproj",
+        "projectName": "NetCoreApi",
+        "projectPath": "E:\\Camera Roll\\资料\\.NET Core\\.net core\\.netcoreProject\\Web.NETCoreAPI\\NetCoreApi.csproj",
         "packagesPath": "C:\\Users\\w\\.nuget\\packages\\",
-        "outputPath": "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Web.NETCoreAPI\\obj\\",
+        "outputPath": "E:\\Camera Roll\\资料\\.NET Core\\.net core\\.netcoreProject\\Web.NETCoreAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -310,17 +310,17 @@
           "netcoreapp2.2": {
             "targetAlias": "netcoreapp2.2",
             "projectReferences": {
-              "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Common\\Common.csproj": {
-                "projectPath": "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Common\\Common.csproj"
+              "E:\\Camera Roll\\资料\\.NET Core\\.net core\\.netcoreProject\\Common\\Common.csproj": {
+                "projectPath": "E:\\Camera Roll\\资料\\.NET Core\\.net core\\.netcoreProject\\Common\\Common.csproj"
               },
-              "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Model\\Entity.csproj": {
-                "projectPath": "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Model\\Entity.csproj"
+              "E:\\Camera Roll\\资料\\.NET Core\\.net core\\.netcoreProject\\Model\\Model.csproj": {
+                "projectPath": "E:\\Camera Roll\\资料\\.NET Core\\.net core\\.netcoreProject\\Model\\Model.csproj"
               },
-              "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Repository\\Repository.csproj": {
-                "projectPath": "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Repository\\Repository.csproj"
+              "E:\\Camera Roll\\资料\\.NET Core\\.net core\\.netcoreProject\\Repository\\Repository.csproj": {
+                "projectPath": "E:\\Camera Roll\\资料\\.NET Core\\.net core\\.netcoreProject\\Repository\\Repository.csproj"
               },
-              "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Service\\Service.csproj": {
-                "projectPath": "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Service\\Service.csproj"
+              "E:\\Camera Roll\\资料\\.NET Core\\.net core\\.netcoreProject\\Service\\Service.csproj": {
+                "projectPath": "E:\\Camera Roll\\资料\\.NET Core\\.net core\\.netcoreProject\\Service\\Service.csproj"
               }
             }
           }

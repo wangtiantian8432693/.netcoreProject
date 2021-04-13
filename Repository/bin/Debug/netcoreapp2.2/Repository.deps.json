@@ -8,9 +8,9 @@
     ".NETCoreApp,Version=v2.2": {
       "Repository/1.0.0": {
         "dependencies": {
+          "Entity": "1.0.0",
           "Microsoft.EntityFrameworkCore.Relational": "3.1.5",
-          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.5",
-          "Model": "1.0.0"
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.5"
         },
         "runtime": {
           "Repository.dll": {}
@@ -2208,12 +2208,12 @@
           "Common.dll": {}
         }
       },
-      "Model/1.0.0": {
+      "Entity/1.0.0": {
         "dependencies": {
           "Common": "1.0.0"
         },
         "runtime": {
-          "Model.dll": {}
+          "Entity.dll": {}
         }
       }
     }
@@ -3692,7 +3692,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Model/1.0.0": {
+    "Entity/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,13 +1,19 @@
 <?xml version="1.0"?>
 <doc>
     <assembly>
-        <name>Web.NETCoreAPI</name>
+        <name>Web.NetCoreApi</name>
     </assembly>
     <members>
         <member name="T:Web.NETCoreAPI.Controllers.BaseController">
             <summary>
             基础
             </summary>
+        </member>
+        <member name="M:Web.NETCoreAPI.Controllers.BaseController.#ctor(Service.IStudentService)">
+            <summary>
+            base controller
+            </summary>
+            <param name="studentService"></param>
         </member>
         <member name="M:Web.NETCoreAPI.Controllers.BaseController.Getoutref">
             <summary>
@@ -22,8 +28,18 @@
             <returns></returns>
         </member>
         <member name="T:Web.NETCoreAPI.Controllers.BaseController.QueryListDto">
+             <summary>
+            Viewmodel of query list
+             </summary>
+        </member>
+        <member name="P:Web.NETCoreAPI.Controllers.BaseController.QueryListDto.ID">
             <summary>
-            
+            ID
+            </summary>
+        </member>
+        <member name="P:Web.NETCoreAPI.Controllers.BaseController.QueryListDto.Name">
+            <summary>
+            名称
             </summary>
         </member>
         <member name="T:Web.NETCoreAPI.Controllers.BigDataController">
@@ -76,6 +92,11 @@
             获取所有缓存类
             </summary>
             <returns></returns>
+        </member>
+        <member name="T:Web.NETCoreAPI.Controllers.GaoBingFaController">
+            <summary>
+            高并发处理
+            </summary>
         </member>
         <member name="T:Web.NETCoreAPI.Controllers.WechatController">
             <summary>
@@ -160,7 +181,7 @@
         </member>
         <member name="M:Web.NET_Core_API.Controllers.HomeController.DownloadOrders">
             <summary>
-            导出
+            导出Excel
             </summary>
             <returns></returns>
         </member>

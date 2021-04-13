@@ -4,6 +4,11 @@
         <name>Entity</name>
     </assembly>
     <members>
+        <member name="P:Model.GetStudentByIdDto.ClassDirector">
+            <summary>
+            班主任
+            </summary>
+        </member>
         <member name="T:Model.QueryPageByClassNoDto">
             <summary>
             学生信息

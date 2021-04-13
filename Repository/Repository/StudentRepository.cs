@@ -8,7 +8,6 @@ namespace Repository
 {
     public class StudentRepository : RepositoryBase<Tb_Student>, IStudentRepository
     {
-        private static readonly RepositoryContext _repositoryContext;
 
         public StudentRepository(IServiceProvider serviceProvider, RepositoryContext studyDbContext):base(serviceProvider, studyDbContext)
         {

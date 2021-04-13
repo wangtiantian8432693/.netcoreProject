@@ -22,26 +22,26 @@
   },
   "targets": {
     ".NETCoreApp,Version=v2.2": {
-      "Web.NETCoreAPI/1.0.0": {
+      "Web.NetCoreApi/1.0.0": {
         "dependencies": {
           "AspNetCoreRateLimit": "3.0.5",
           "AutoMapper": "10.0.0",
           "Common": "1.0.0",
+          "Entity": "1.0.0",
           "FastMember": "1.5.0",
           "Microsoft.AspNetCore.All": "2.0.3",
           "Microsoft.NETCore.App": "2.2.0",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "2.0.0",
-          "Model": "1.0.0",
           "Repository": "1.0.0",
           "Service": "1.0.0",
           "Swashbuckle.AspNetCore": "5.4.1",
           "Swashbuckle.AspNetCore.SwaggerGen": "5.4.1"
         },
         "runtime": {
-          "Web.NETCoreAPI.dll": {}
+          "Web.NetCoreApi.dll": {}
         },
         "compile": {
-          "Web.NETCoreAPI.dll": {}
+          "Web.NetCoreApi.dll": {}
         }
       },
       "AspNetCoreRateLimit/3.0.5": {
@@ -4895,22 +4895,22 @@
           "Common.dll": {}
         }
       },
-      "Model/1.0.0": {
+      "Entity/1.0.0": {
         "dependencies": {
           "Common": "1.0.0"
         },
         "runtime": {
-          "Model.dll": {}
+          "Entity.dll": {}
         },
         "compile": {
-          "Model.dll": {}
+          "Entity.dll": {}
         }
       },
       "Repository/1.0.0": {
         "dependencies": {
+          "Entity": "1.0.0",
           "Microsoft.EntityFrameworkCore.Relational": "3.1.5",
-          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.5",
-          "Model": "1.0.0"
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.5"
         },
         "runtime": {
           "Repository.dll": {}
@@ -5114,7 +5114,7 @@
     }
   },
   "libraries": {
-    "Web.NETCoreAPI/1.0.0": {
+    "Web.NetCoreApi/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -7483,7 +7483,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Model/1.0.0": {
+    "Entity/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

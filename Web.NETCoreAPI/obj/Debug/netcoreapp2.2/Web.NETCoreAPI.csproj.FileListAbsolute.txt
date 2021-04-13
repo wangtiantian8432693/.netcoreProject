@@ -59,3 +59,69 @@ E:\Camera Roll\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\obj\Debug\netco
 E:\Camera Roll\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\obj\Debug\netcoreapp2.2\Web.NETCoreAPI.csproj.CopyComplete
 E:\Camera Roll\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\obj\Debug\netcoreapp2.2\Web.NETCoreAPI.dll
 E:\Camera Roll\资料\.NET Core\Web.NET Core.Demo\Web.NETCoreAPI\obj\Debug\netcoreapp2.2\Web.NETCoreAPI.genruntimeconfig.cache
+E:\Camera Roll\资料\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\Camera Roll\资料\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\appsettings.json
+E:\Camera Roll\资料\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Web.NETCoreAPI.xml
+E:\Camera Roll\资料\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Web.NetCoreApi.deps.json
+E:\Camera Roll\资料\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Web.NetCoreApi.runtimeconfig.json
+E:\Camera Roll\资料\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Web.NetCoreApi.runtimeconfig.dev.json
+E:\Camera Roll\资料\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Web.NetCoreApi.dll
+E:\Camera Roll\资料\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Common.dll
+E:\Camera Roll\资料\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Entity.dll
+E:\Camera Roll\资料\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Repository.dll
+E:\Camera Roll\资料\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Service.dll
+E:\Camera Roll\资料\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Common.pdb
+E:\Camera Roll\资料\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Entity.pdb
+E:\Camera Roll\资料\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Repository.pdb
+E:\Camera Roll\资料\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Service.pdb
+E:\Camera Roll\资料\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\obj\Debug\netcoreapp2.2\Web.NetCoreApi.csprojAssemblyReference.cache
+E:\Camera Roll\资料\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\obj\Debug\netcoreapp2.2\Web.NetCoreApi.AssemblyInfoInputs.cache
+E:\Camera Roll\资料\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\obj\Debug\netcoreapp2.2\Web.NetCoreApi.AssemblyInfo.cs
+E:\Camera Roll\资料\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\obj\Debug\netcoreapp2.2\Web.NetCoreApi.csproj.CoreCompileInputs.cache
+E:\Camera Roll\资料\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\obj\Debug\netcoreapp2.2\Web.NetCoreApi.csproj.CopyComplete
+E:\Camera Roll\资料\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\obj\Debug\netcoreapp2.2\Web.NetCoreApi.dll
+E:\Camera Roll\资料\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\obj\Debug\netcoreapp2.2\Web.NetCoreApi.genruntimeconfig.cache
+E:\Camera Roll\demo\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\Camera Roll\demo\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\appsettings.json
+E:\Camera Roll\demo\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Web.NETCoreAPI.xml
+E:\Camera Roll\demo\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Web.NetCoreApi.deps.json
+E:\Camera Roll\demo\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Web.NetCoreApi.runtimeconfig.json
+E:\Camera Roll\demo\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Web.NetCoreApi.runtimeconfig.dev.json
+E:\Camera Roll\demo\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Web.NetCoreApi.dll
+E:\Camera Roll\demo\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Common.dll
+E:\Camera Roll\demo\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Entity.dll
+E:\Camera Roll\demo\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Repository.dll
+E:\Camera Roll\demo\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Service.dll
+E:\Camera Roll\demo\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Common.pdb
+E:\Camera Roll\demo\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Entity.pdb
+E:\Camera Roll\demo\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Repository.pdb
+E:\Camera Roll\demo\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Service.pdb
+E:\Camera Roll\demo\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\obj\Debug\netcoreapp2.2\Web.NetCoreApi.csprojAssemblyReference.cache
+E:\Camera Roll\demo\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\obj\Debug\netcoreapp2.2\Web.NetCoreApi.AssemblyInfoInputs.cache
+E:\Camera Roll\demo\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\obj\Debug\netcoreapp2.2\Web.NetCoreApi.AssemblyInfo.cs
+E:\Camera Roll\demo\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\obj\Debug\netcoreapp2.2\Web.NetCoreApi.csproj.CoreCompileInputs.cache
+E:\Camera Roll\demo\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\obj\Debug\netcoreapp2.2\Web.NetCoreApi.csproj.CopyComplete
+E:\Camera Roll\demo\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\obj\Debug\netcoreapp2.2\Web.NetCoreApi.dll
+E:\Camera Roll\demo\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\obj\Debug\netcoreapp2.2\Web.NetCoreApi.genruntimeconfig.cache
+E:\Camera Roll\.net core\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\Camera Roll\.net core\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\appsettings.json
+E:\Camera Roll\.net core\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Web.NETCoreAPI.xml
+E:\Camera Roll\.net core\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Web.NetCoreApi.deps.json
+E:\Camera Roll\.net core\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Web.NetCoreApi.runtimeconfig.json
+E:\Camera Roll\.net core\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Web.NetCoreApi.runtimeconfig.dev.json
+E:\Camera Roll\.net core\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Web.NetCoreApi.dll
+E:\Camera Roll\.net core\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Common.dll
+E:\Camera Roll\.net core\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Entity.dll
+E:\Camera Roll\.net core\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Repository.dll
+E:\Camera Roll\.net core\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Service.dll
+E:\Camera Roll\.net core\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Common.pdb
+E:\Camera Roll\.net core\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Entity.pdb
+E:\Camera Roll\.net core\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Repository.pdb
+E:\Camera Roll\.net core\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\bin\Debug\netcoreapp2.2\Service.pdb
+E:\Camera Roll\.net core\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\obj\Debug\netcoreapp2.2\Web.NetCoreApi.csprojAssemblyReference.cache
+E:\Camera Roll\.net core\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\obj\Debug\netcoreapp2.2\Web.NetCoreApi.AssemblyInfoInputs.cache
+E:\Camera Roll\.net core\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\obj\Debug\netcoreapp2.2\Web.NetCoreApi.AssemblyInfo.cs
+E:\Camera Roll\.net core\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\obj\Debug\netcoreapp2.2\Web.NetCoreApi.csproj.CoreCompileInputs.cache
+E:\Camera Roll\.net core\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\obj\Debug\netcoreapp2.2\Web.NetCoreApi.csproj.CopyComplete
+E:\Camera Roll\.net core\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\obj\Debug\netcoreapp2.2\Web.NetCoreApi.dll
+E:\Camera Roll\.net core\.NET Core\.net core\.netcoreProject\Web.NETCoreAPI\obj\Debug\netcoreapp2.2\Web.NetCoreApi.genruntimeconfig.cache

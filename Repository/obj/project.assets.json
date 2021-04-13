@@ -3314,17 +3314,17 @@
           "bin/placeholder/Common.dll": {}
         }
       },
-      "Model/1.0.0": {
+      "Entity/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.2",
         "dependencies": {
           "Common": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/Model.dll": {}
+          "bin/placeholder/Entity.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Model.dll": {}
+          "bin/placeholder/Entity.dll": {}
         }
       }
     }
@@ -9990,18 +9990,18 @@
       "path": "../Common/Common.csproj",
       "msbuildProject": "../Common/Common.csproj"
     },
-    "Model/1.0.0": {
+    "Entity/1.0.0": {
       "type": "project",
-      "path": "../Model/Model.csproj",
-      "msbuildProject": "../Model/Model.csproj"
+      "path": "../Model/Entity.csproj",
+      "msbuildProject": "../Model/Entity.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
+      "Entity >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Relational >= 3.1.5",
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.5",
-      "Microsoft.NETCore.App >= 2.2.0",
-      "Model >= 1.0.0"
+      "Microsoft.NETCore.App >= 2.2.0"
     ]
   },
   "packageFolders": {
@@ -10011,11 +10011,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Camera Roll\\资料\\.NET Core\\Web.NET Core.Demo\\Repository\\Repository.csproj",
+      "projectUniqueName": "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Repository\\Repository.csproj",
       "projectName": "Repository",
-      "projectPath": "E:\\Camera Roll\\资料\\.NET Core\\Web.NET Core.Demo\\Repository\\Repository.csproj",
+      "projectPath": "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Repository\\Repository.csproj",
       "packagesPath": "C:\\Users\\w\\.nuget\\packages\\",
-      "outputPath": "E:\\Camera Roll\\资料\\.NET Core\\Web.NET Core.Demo\\Repository\\obj\\",
+      "outputPath": "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -10035,8 +10035,8 @@
         "netcoreapp2.2": {
           "targetAlias": "netcoreapp2.2",
           "projectReferences": {
-            "E:\\Camera Roll\\资料\\.NET Core\\Web.NET Core.Demo\\Model\\Model.csproj": {
-              "projectPath": "E:\\Camera Roll\\资料\\.NET Core\\Web.NET Core.Demo\\Model\\Model.csproj"
+            "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Model\\Entity.csproj": {
+              "projectPath": "E:\\Camera Roll\\.net core\\.NET Core\\.net core\\.netcoreProject\\Model\\Entity.csproj"
             }
           }
         }

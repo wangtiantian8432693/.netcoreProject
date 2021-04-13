@@ -13,5 +13,10 @@ namespace Model
         public string CreateTimeToString { get { return CreateTime.ToString("yyyy-MM-dd HH:mm:ss"); } }
         public int ClassNo { get; set; }
         public string ClassName { get; set; }
+
+        /// <summary>
+        /// 班主任
+        /// </summary>
+        public string ClassDirector { get; set; }
     }
 }
